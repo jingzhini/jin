@@ -9,3 +9,6 @@ welcome to the git world!
 
 ***i wanna alter again***
 
+today is 2022/05/22,22:49.
+this is my third time try to test commit git.
+i have to practice once more,because i have long time don't commit.
